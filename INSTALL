@@ -1,0 +1,4 @@
+Building testfaucetcoin
+See doc/readme-qt.rst for instructions on building testfaucetcoin QT.
+
+See doc/build-*.txt for instructions on building testfaucetcoind.
